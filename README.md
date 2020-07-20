@@ -27,11 +27,11 @@ npm run build
 npm run hls
 ```
 
-### 3. Start httpserver
+### 3. Start http-server
 
 ```sh
 npm run server
 ```
 
-When you start httpserver, it will automatically open `http://localhost:8080` in your browser and start receiving video.
+When you start httpserver, it will automatically open `http://localhost:8080/dist` in your browser and start receiving video.
 
