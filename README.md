@@ -35,3 +35,5 @@ npm run server
 
 When you start httpserver, it will automatically open `http://localhost:8080/dist` in your browser and start receiving video.
 
+![demo](./demo.png)
+
